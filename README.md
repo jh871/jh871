@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jh871
-- - 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning front end web development
 - 
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...

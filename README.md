@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @jh871
 - 🌱 I’m currently learning front end web development
+- Check out my pinned posts for projects I've completed during the course!
